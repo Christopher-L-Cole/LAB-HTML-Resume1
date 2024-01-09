@@ -1,3 +1,22 @@
 body {
-  background-color: bisque;
+  background-image: url(https://miro.medium.com/v2/resize:fit:5400/1*X-hagm2jL0EwiYmmYLoMgQ.jpeg);
+}
+
+#MoLo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 5px solid red;
+}
+
+#RJW {
+  font-family: 'Times New Roman', Times, serif;
+  border: 4px dotted blue;
+}
+
+#Army {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 6px double teal;
+}
+
+h1 {
+  color: brown;
 }
